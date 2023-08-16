@@ -1,1 +1,3 @@
 A project open source for everyone !!
+
+"Hey there, passionate community! 🌟 I'm on a mission to launch an open-source initiative aimed at empowering small businesses. Imagine a system that seamlessly integrates email marketing with customer acquisition, tailored just for them. But here's the thing - I can't do it alone. I believe in the power of collaboration and diverse skills. Whether you're brimming with innovative ideas, have technical prowess, or simply share our vision, I invite you to jump on board. Let's make a difference together and revolutionize the way small businesses grow! 
